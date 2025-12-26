@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pokepath-game.github.io/sitemap.xml
